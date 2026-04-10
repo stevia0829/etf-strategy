@@ -1,0 +1,9 @@
+{
+    "tushare_token": "",
+    "说明": "请访问 https://tushare.pro/ 注册并获取免费token，填入 tushare_token 字段",
+    "数据源优先级": [
+        "akshare（推荐，完全免费）",
+        "baostock（免费，数据质量好）",
+        "tushare（需要token，功能更丰富）"
+    ]
+}
