@@ -143,7 +143,3 @@ score = (e^(slope × 250) - 1) × R²
 - 策略2 ETF反弹核心标的中证2000ETF于2023年9月上市，历史回测仅支持此日期之后
 - 策略4 白马攻防为实验性策略，作者建议谨慎使用
 
-## 致谢
-
-- [Cibo 三驾马车策略](https://www.joinquant.com/post/65582) - 策略原作者
-- [AKShare](https://github.com/akfamily/akshare) - 开源金融数据接口
